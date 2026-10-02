@@ -1,2 +1,18 @@
-# awal-rebh
-Awal Rebh - Premium reward platform with luxury dark theme, minimal navbar, and profile system
+# أول ربح
+
+واجهة عربية حديثة لمنصة المكافآت والمهام المصغّرة، مبنية باستخدام React وTailwind CSS
+مع دعم كامل لاتجاه RTL وتصميم داكن بلمسات نيون.
+
+## التشغيل محلياً
+
+```bash
+npm install
+npm run dev
+```
+
+## الأوامر
+
+- `npm run dev` — تشغيل بيئة التطوير
+- `npm run build` — إنشاء نسخة الإنتاج
+- `npm run lint` — فحص جودة الكود
+- `npm run preview` — معاينة نسخة الإنتاج
